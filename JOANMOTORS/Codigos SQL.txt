@@ -1,0 +1,157 @@
+sting Direccion= "FAMILIARINCONES\\SQLEXPRESS;Initial Catalogo=nombre de la base de datos; Intergrated Security = True";
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+EMPLEADO NOMINA MI CASA
+
+Create database Empleados 
+
+CREATE TABLE Emplea2 (
+	num int identity (1,1)   primary key,
+    Identificacion VARCHAR (12)not NULL ,
+	NombreEmpleado varchar (50) not NULL,
+	HorasTrabajadas int,
+	SueldoPorHora float,
+	HorasExtras float,
+	Tipo varchar (50) not NULL,
+    Salario float
+)
+
+//DIRECIÓN//
+
+private SqlConnection conexion = new SqlConnection("Server=FAMILIARINCONES\\SQLEXPRESS;DataBase=Empleados; Integrated Security=true");
+
+//////////////////////////////////////////////////
+proceso guardar
+
+create proc GuardarEmpleados
+@Identificacion varchar (12),
+@NombreEmpleado varchar (50),
+@HorasTrabajadas int,
+@SueldoPorHora float,
+@HorasExtras float,
+@Tipo varchar (50),
+@Salario float
+as
+insert into Emplea2 values (@Identificacion, @NombreEmpleado, @HorasTrabajadas, @SueldoPorHora, @HorasExtras, @Tipo, @Salario)
+go
+
+exec GuardarEmpleados '963','prueba',12,10,0,'solo',120
+/////////////////////////////////////////////////
+
+//////////////////////////////////////////////////
+proceso Mostrar
+
+create proc MostrarEmpleados
+as
+select *from Emplea2
+go
+
+exec MostrarEmpleados
+
+/////////////////////////////////////////////////
+
+//////////////////////////////////////////////////
+proceso editar
+
+create proc Editar
+@Identificacion varchar (12),
+@NombreEmpleado varchar (50),
+@HorasTrabajadas int,
+@SueldoPorHora float,
+@HorasExtras float,
+@Tipo varchar (50),
+@Salario float
+as
+update Emplea2 set  NombreEmpleado=@NombreEmpleado, HorasTrabajadas=@HorasTrabajadas, SueldoPorHora=@SueldoPorHora, HorasExtras=@HorasExtras, Tipo=@Tipo, Salario=@Salario
+where Identificacion=@Identificacion 
+go
+
+exec Editar'963','prueba',12,10,0,'solo',120
+
+/////////////////////////////////////////////////
+
+
+//////////////////////////////////////////////////
+proceso Eliminar
+
+
+
+create proc EliminarEmpleados
+@Identificacion varchar (12)
+as
+delete from Emplea2 where Identificacion=@Identificacion
+go
+
+exec EliminarEmpleados '963'
+
+/////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+CREATE TABLE EMPLEADO2 (
+    Identificacion VARCHAR (12)    primary key,
+	Nombre varchar (50) not NULL,
+    Salario numeric (18,2)
+)
+
+/*insertar*/
+
+insert into  EMPLEADO2 (Identificacion,Nombre,Salario) 
+values ('5','cacha',28000)
+
+/*modificar*/
+
+update EMPLEADO2
+SET Nombre = 'Diego'
+where Identificacion = '5'
+
+/*eliminar*/
+
+Delete From EMPLEADO2 where Salario = 28000
+
+/*SELECCIONAR consultar */
+
+SeLECT Nombre, Salario, Identificacion from EMPLEADO2 where Identificacion = '1'
+
+/*SELECCIONAR consultar  csuma de salario*/
+
+SeLECT sum(Salario) from EMPLEADO2 
+
+/*SELECCIONAR consultar  cuente cuantos hay*/
+
+SeLECT count(*) from EMPLEADO2 
+
+/*SELECCIONAR consultar  y me sume los salarios*/
+
+SELECT Nombre, Salario, Identificacion from EMPLEADO2 
+where Nombre like 'j%'
+
+/*SELECCIONAR Y ORDENAR POR NOMBE*/
+
+SeLECT *from EMPLEADO2 ORDER BY Nombre
+

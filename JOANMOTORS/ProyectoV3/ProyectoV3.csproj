@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5ED37E48-7EDD-4C3B-8796-1FC599EC45D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoV3</RootNamespace>
+    <AssemblyName>ProyectoV3</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmActualizarPapeles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActualizarPapeles.Designer.cs">
+      <DependentUpon>FrmActualizarPapeles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarAsignacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarAsignacion.Designer.cs">
+      <DependentUpon>FrmAgregarAsignacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarConductor.Designer.cs">
+      <DependentUpon>FrmAgregarConductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarGastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarGastos.Designer.cs">
+      <DependentUpon>FrmAgregarGastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarMoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarMoto.Designer.cs">
+      <DependentUpon>FrmAgregarMoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarTarifa.Designer.cs">
+      <DependentUpon>FrmAgregarTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAyuda.Designer.cs">
+      <DependentUpon>FrmAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChofer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChofer.Designer.cs">
+      <DependentUpon>FrmChofer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConductores.Designer.cs">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGanancias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGanancias.Designer.cs">
+      <DependentUpon>FrmGanancias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGastos.Designer.cs">
+      <DependentUpon>FrmGastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMotos.Designer.cs">
+      <DependentUpon>FrmMotos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTarifaDiaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTarifaDiaria.Designer.cs">
+      <DependentUpon>FrmTarifaDiaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmActualizarPapeles.resx">
+      <DependentUpon>FrmActualizarPapeles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarAsignacion.resx">
+      <DependentUpon>FrmAgregarAsignacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarConductor.resx">
+      <DependentUpon>FrmAgregarConductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarGastos.resx">
+      <DependentUpon>FrmAgregarGastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarMoto.resx">
+      <DependentUpon>FrmAgregarMoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarTarifa.resx">
+      <DependentUpon>FrmAgregarTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAyuda.resx">
+      <DependentUpon>FrmAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChofer.resx">
+      <DependentUpon>FrmChofer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConductores.resx">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGanancias.resx">
+      <DependentUpon>FrmGanancias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGastos.resx">
+      <DependentUpon>FrmGastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMotos.resx">
+      <DependentUpon>FrmMotos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTarifaDiaria.resx">
+      <DependentUpon>FrmTarifaDiaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile-Menu-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blanco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon cerrar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prodcutos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle%281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle%281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candidates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag-with-dollar-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar-sign-and-piles-of-coins.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prueba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin títaaulo-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss_man-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round-error-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scooter-front-view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle%281%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss_man-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle%281%294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helmet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creative.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effective.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forbidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baggage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fraudulent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speedometer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MotoGrande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{62c32d91-0ef1-41db-8231-9c05842f07bd}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{3485b553-ee6e-46c1-a987-5207c7236320}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helmet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speedometer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RentSoft Base Negra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RentSoft Base Blanca.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

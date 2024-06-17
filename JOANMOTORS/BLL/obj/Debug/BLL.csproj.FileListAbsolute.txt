@@ -1,0 +1,132 @@
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Proyecto V4 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Proyecto V4 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Users\esaro\source\repos\Proyecto V6 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\Proyecto.mdf
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\DAL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\DAL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\obj\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\obj\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\INFRAESTRUCTURA.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\itextsharp.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\INFRAESTRUCTURA.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\BLL\bin\Debug\itextsharp.xml
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\Proyecto.mdf
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\DAL.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\itextsharp.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\DAL.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\bin\Debug\itextsharp.xml
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\obj\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\BLL\obj\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\Proyecto.mdf
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\BLL.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\DAL.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\itextsharp.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\DAL.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\bin\Debug\itextsharp.xml
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\obj\Debug\BLL.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\BLL\obj\Debug\BLL.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\Proyecto.mdf
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\Proyecto_log.ldf
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\BLL.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\BLL.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\DAL.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\ENTITY.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\itextsharp.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\DAL.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\ENTITY.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\INFRAESTRUCTURA.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\bin\Debug\itextsharp.xml
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\obj\Debug\BLL.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\BLL\obj\Debug\BLL.pdb

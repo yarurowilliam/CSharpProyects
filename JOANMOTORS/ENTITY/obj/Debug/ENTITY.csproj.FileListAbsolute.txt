@@ -1,0 +1,47 @@
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V3 (EntityReady2)\Proyecto V3 (EntityReady2)\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.pdb
+C:\Proyecto V4 (EntityReady2)\ENTITY\bin\Debug\ENTITY.dll
+C:\Proyecto V4 (EntityReady2)\ENTITY\bin\Debug\ENTITY.pdb
+C:\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.dll
+C:\Proyecto V4 (EntityReady2)\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\esaro\Documents\Michael Catalan\Proyecto V6 (EntityReady2)\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\Proyecto V7 (EntityReady2)\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Desktop\JOANMOTORS\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\WILLIAM ANDRES\Documents\JOANMOTORS\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\willi\Documents\willy\JOANMOTORS\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\willi\Documents\willy\JOANMOTORS\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\willi\Documents\willy\JOANMOTORS\ENTITY\obj\Debug\ENTITY.pdb
